@@ -1,6 +1,6 @@
-<h2 align="center"> Prazer, skaarlbabyxo 👋 <br/> </h2> 
+<h2 align="center">  <br/> </h2> 
 
-<p align="center"> <samp>Olá, eu sou o skaarlbabyxo, e estudo programação a 3 anos. Sou muito competitivo, gosto da natureza/animais. Moro no Brasil e sou aspirante a químico. :)
+<p align="center"> <samp>
   
 ## Tech Stack :computer:
 
